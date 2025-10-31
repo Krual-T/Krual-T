@@ -1,6 +1,6 @@
-# GitHub Profile README
+# Shaokun's Homepage
 
-## 👋 Welcome to my GitHub profile!
+## 👋 Welcome to my GitHub homepage!
 
 I'm a passionate software engineer specializing in backend development, artificial intelligence, and distributed systems. With a strong foundation in Python and extensive experience in building scalable applications, I'm dedicated to creating robust solutions that solve complex problems.
 

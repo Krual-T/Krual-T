@@ -1,16 +1,67 @@
-## Hi there 👋
+# GitHub Profile README
 
-<!--
-**Krual-T/Krual-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a passionate software engineer specializing in backend development, artificial intelligence, and distributed systems. With a strong foundation in Python and extensive experience in building scalable applications, I'm dedicated to creating robust solutions that solve complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Expertise
+
+### Core Technologies
+- **Python Development**: Advanced features, async programming, concurrency
+- **Backend Frameworks**: FastAPI, Flask, SQLAlchemy ORM
+- **Distributed Systems**: Celery + RabbitMQ for task queues and message brokering
+- **Database Management**: Relational databases, optimization, caching mechanisms
+
+### Artificial Intelligence
+- **LLM Integration**: Large language model applications and Dify platform
+- **RAG Technology**: Retrieval-Augmented Generation for knowledge systems
+- **Intelligent Agents**: Multi-agent systems and prompt engineering
+- **Automated Content Generation**: AI-powered article creation and optimization
+
+### System Architecture
+- **Microservices Design**: Architecture and inter-module communication protocols
+- **Stream Processing**: Real-time data transmission optimization
+- **Performance Optimization**: Caching strategies, query optimization, concurrency handling
+
+### DevOps & Engineering
+- **CI/CD Pipelines**: Automated deployment workflows
+- **Version Control**: Git workflows, collaborative development
+- **Environment Management**: Dev/Test/Prod configuration
+- **Security Implementation**: Knowledge base protection mechanisms
+
+## 💼 Professional Experience
+
+**Software Engineering Intern**  
+*Fayu Technology (Beijing) Co., Ltd.* | July 2025 - September 2025
+
+**Software Development Intern**  
+*Fayu Technology (Beijing) Co., Ltd.* | November 2024 - January 2025
+
+## 🎓 Education
+
+**Master's Degree in Electronic Information (Professional Master's)**  
+*Hohai University* | 2025 - Present
+
+**Bachelor's Degree in Software Engineering**  
+*Liaoning Technical University* | 2021 - 2025
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krual-T&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krual-T&layout=compact&theme=dark)
+
+## 🌟 Featured Projects
+
+- **Distributed Task Processing System**: Scalable task queue implementation with Celery and RabbitMQ
+- **AI-Powered Knowledge Base**: RAG-based intelligent问答系统 with automated content generation
+- **Microservices Architecture**: Design and implementation of communication protocols for distributed applications
+
+## 📫 Contact Me
+
+- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- Email: your.email@example.com
+- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*

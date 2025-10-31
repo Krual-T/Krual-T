@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./avatars/DL-Dog-avatar.jpg" alt="头像"height="100" style="border-radius: 50%;">
+  <img src="./avatars/DL-Dog-avatar.jpg" alt="DL-Dog"height="100" style="border-radius: 50%;">
   <br/>
   Shaokun's Homepage
 </h1>

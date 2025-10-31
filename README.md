@@ -1,4 +1,4 @@
-# Shaokun's Homepage
+<h1><img src="./avatars/DL-Dog-avatar.jpg" alt="头像"height="100" style="border-radius: 50%;">Shaokun's Homepage</h1>
 
 ## 👋 Welcome to my GitHub homepage!
 

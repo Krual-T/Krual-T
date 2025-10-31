@@ -31,10 +31,10 @@ I'm a passionate software engineer specializing in backend development, artifici
 
 ## 💼 Professional Experience
 
-**Software Engineering Intern**  
-*Fayu Technology (Beijing) Co., Ltd.* | July 2025 - September 2025
+**Python Software Development Engineer - Intern**  
+*Fayu Technology (Beijing) Co., Ltd.* | July 2025 - September 2025 | July 2025 - September 2025 | July 2025 - September 2025 | July 2025 - September 2025 | July 2025 - September 2025 | July 2025 - September 2025 | July 2025 - September 2025 | July 2025 - September 2025
 
-**Software Development Intern**  
+**AI Application Development Engineer - Intern**  
 *Fayu Technology (Beijing) Co., Ltd.* | November 2024 - January 2025
 
 ## 🎓 Education
@@ -47,8 +47,8 @@ I'm a passionate software engineer specializing in backend development, artifici
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krual-T&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krual-T&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krual-T&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krual-T&count_private=true&include_all_commits=true&layout=compact&theme=dark)
 
 ## 🌟 Featured Projects
 

@@ -52,15 +52,12 @@ I'm a passionate software engineer specializing in backend development, artifici
 
 ## 🌟 Featured Projects
 
-- **Distributed Task Processing System**: Scalable task queue implementation with Celery and RabbitMQ
-- **AI-Powered Knowledge Base**: RAG-based intelligent问答系统 with automated content generation
-- **Microservices Architecture**: Design and implementation of communication protocols for distributed applications
+- *[OutfitX: Fashion Outfit Recommendation System](https://github.com/Krual-T/OutfitX)*: Reproduction and improvement of [OutfitTransformer: Learning Outfit Representations for Fashion Recommendation](https://arxiv.org/abs/2204.04812v2)
+- *[Course-Schedule](https://github.com/Krual-T/course-schedule)*: Project for integrating Hohai University's course schedules and Lark calendar reminders
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- Email: shaokun.tang@outlook.com
 
 ---
 

@@ -57,7 +57,8 @@ I'm a passionate software engineer specializing in backend development, artifici
 ## 🌟 Featured Projects
 
 - *[OutfitX: Fashion Outfit Recommendation System](https://github.com/Krual-T/OutfitX)*: Reproduction and improvement of [OutfitTransformer: Learning Outfit Representations for Fashion Recommendation](https://arxiv.org/abs/2204.04812v2)
-- *[Course-Schedule](https://github.com/Krual-T/course-schedule)*: Project for integrating Hohai University's course schedules and Lark calendar reminders
+- *[Course-Schedule](https://github.com/Krual-T/course-schedule)*: Project for integrating Hohai University's course schedules and Lark calendar reminders.
+- *[HHU_CampusNetwork_AutoLogin](https://github.com/Krual-T/HHU_CampusNetwork_AutoLogin)*: A lightweight, silent Windows utility that automatically handles the captive portal login for the Hohai University network.
 
 ## 📫 Contact Me
 
